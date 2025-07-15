@@ -13,6 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Is+Life+Always+this+Hard)](https://git.io/typing-svg)
 
 
+** GitHub Stats
 <!-- ![Whatp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whatp&show_icons=true&theme=radical) -->
 
 
@@ -21,7 +22,7 @@
 
 
 <!-- 博客 -->
-📕 &nbsp;***Latest Blog Posts***
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -29,7 +30,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
 
 
