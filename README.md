@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Whatp)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about ​​backend development​​ (Java/Python/Go/Node.js), ​​databases​​ (MySQL/Redis/MongoDB), or ​​system architecture​​ – happy to discuss frontend (React/Vue) too!
   
 
 - ⚡ Fun fact: I use tabs over spaces  
