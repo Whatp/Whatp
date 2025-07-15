@@ -1,22 +1,5 @@
-<!-- Is life always this hard-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Is+Life+Always+this+Hard)](https://git.io/typing-svg)
-
-
-<!-- ![Whatp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whatp&show_icons=true&theme=radical) -->
-
-
-
-[![Whatp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Whatp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 ### <div align="center">I'm Oliver Lee, a  developer 👨‍💻from CN🚀</div>  
-  
+  <!--  -->
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Whatp)  
   
@@ -25,12 +8,22 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
 
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
+<!-- Is life always this hard-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Is+Life+Always+this+Hard)](https://git.io/typing-svg)
+
+
+<!-- ![Whatp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whatp&show_icons=true&theme=radical) -->
+
+
+<!-- 这里是提交曲线图 -->
+[![Whatp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Whatp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- 博客 -->
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 
@@ -83,22 +76,11 @@
 <br/>  
 
 
-## Connect with me  
-  
-
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Whatp&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
