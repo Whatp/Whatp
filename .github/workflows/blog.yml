@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Fetch WordPress Posts
         run: |
-          curl -o posts.json https://wordpress.meilingluo.cn/
+          curl -o posts.json https://wordpress.meilingluo.cn/feed/
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
