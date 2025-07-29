@@ -1,7 +1,7 @@
 ### <div align="center">I'm Oliver Lee, a  developer 👨‍💻from CN🚀</div>  
   <!--  -->
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Whatp)  
+- 🔭 I’m currently working on [Github MeiProGen](https://github.com/Whatp/MeiProGen)  
   
 
 - ❓ Ask me about ​​backend development​​ (Java/Python/Go/Node.js), ​​databases​​ (MySQL/Redis/MongoDB), or ​​system architecture​​ – happy to discuss frontend (React/Vue) too!
@@ -14,7 +14,7 @@
 
 
 ## GitHub Stats
-<!-- ![Whatp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whatp&show_icons=true&theme=radical) -->
+![Whatp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whatp&show_icons=true&theme=radical) 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whatp&theme=radical" width="40%" />
 
 <!-- 这里是提交曲线图 -->
