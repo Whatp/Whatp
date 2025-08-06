@@ -24,11 +24,11 @@
 <!-- 博客 -->
 ## 📕 &nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java中线程的思考](https://wordpress.meilingluo.cn/java%e4%b8%ad%e7%ba%bf%e7%a8%8b%e7%9a%84%e6%80%9d%e8%80%83/)
+- [Java内存模型](https://wordpress.meilingluo.cn/java%e5%86%85%e5%ad%98%e6%a8%a1%e5%9e%8b/)
+- [MeiProGen](https://wordpress.meilingluo.cn/meiprogen/)
 - [为你写诗](https://wordpress.meilingluo.cn/%e4%b8%ba%e4%bd%a0%e5%86%99%e8%af%97/)
 - [密码保护：RPC](https://wordpress.meilingluo.cn/rpc/)
-- [不知不觉实习很久了，那么实习如何快速上手](https://wordpress.meilingluo.cn/%e4%b8%8d%e7%9f%a5%e4%b8%8d%e8%a7%89%e5%ae%9e%e4%b9%a0%e5%be%88%e4%b9%85%e4%ba%86%ef%bc%8c%e9%82%a3%e4%b9%88%e5%ae%9e%e4%b9%a0%e5%a6%82%e4%bd%95%e5%bf%ab%e9%80%9f%e4%b8%8a%e6%89%8b/)
-- [如何写好代码](https://wordpress.meilingluo.cn/%e5%a6%82%e4%bd%95%e5%86%99%e5%a5%bd%e4%bb%a3%e7%a0%81/)
-- [如何监控慢SQL](https://wordpress.meilingluo.cn/%e5%a6%82%e4%bd%95%e7%9b%91%e6%8e%a7%e6%85%a2sql/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
