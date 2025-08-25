@@ -15,7 +15,7 @@
 
 ## GitHub Stats
 <!--![Whatp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whatp&show_icons=true&theme=radical) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whatp&theme=radical" width="40%" />
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whatp&theme=radical" width="40%" /> -->
 
 <!-- 这里是提交曲线图 -->
 
